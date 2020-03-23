@@ -1,5 +1,5 @@
 # Lady Galton/Marianne Nicholson connections
-Connections with other alters in the Florence Nightingale egonet. We acknowledge there should be more connections as she was a cousin of Florence, but to this date we have not found records to justify them.
+Connections with other alters in the Florence Nightingale egonet. We acknowledge there should be more connections as she was a cousin of Florence, but to this date we have not found the references to justify them.
 
 | Alter  | Reference|
 | ------------- |------------- |
